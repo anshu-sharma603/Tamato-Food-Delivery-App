@@ -4,9 +4,10 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Demo
 
-- User Panel: [ADD_YOUR_DEPLOYED_FRONTEND_URL_HERE]
-- Admin Panel: [ADD_YOUR_DEPLOYED_ADMIN_URL_HERE]
+- User Panel: (https://tamato-food-delivery-app.vercel.app)
+- Admin Panel:tamato-food-delivery-app-22du-lerbki3tl-anshusharma8981-8247.vercel.app
 
+- 
 ## Features
 
 - User Panel
